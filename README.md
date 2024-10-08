@@ -1,20 +1,19 @@
-# Instagram Login Clone
+# Instagram Clone
 
-Clone da página de login do Instagram, criado com HTML5 e CSS3. O projeto inclui um formulário de login, opção de login com Facebook, links de recuperação de senha e registro. O layout é responsivo, adaptando-se para dispositivos móveis.
+Este é um projeto que recria a interface de login do Instagram, desenvolvido com o objetivo de praticar habilidades em HTML5 e CSS3, além de aplicar conceitos de design responsivo.
+
+## Funcionalidades
+
+- **Formulário de Login:** Campos para nome de usuário, senha e botão para submeter as informações.
+- **Login com Facebook:** Link para simular login com o Facebook.
+- **Link de Recuperação de Senha:** Link fictício para recuperação de senha.
+- **Registro:** Opção de cadastro para novos usuários.
+- **Responsividade:** Design adaptado para diferentes resoluções de tela, escondendo elementos e ajustando o layout em dispositivos móveis.
 
 ## Tecnologias Utilizadas
 
 - **HTML5**
 - **CSS3**
-
-## Funcionalidades
-
-- Formulário de login
-- Login com Facebook
-- Recuperação de senha
-- Registro de novos usuários
-- Layout responsivo
-
-
+- **Design Responsivo (Media Queries)**
 
 
